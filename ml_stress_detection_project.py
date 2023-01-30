@@ -17,6 +17,8 @@ df.describe()
 
 df.isnull().sum()
 
+#Developed by Manishkumar Singh
+
 import nltk
 import re
 from nltk. corpus import stopwords
